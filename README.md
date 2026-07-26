@@ -125,5 +125,5 @@ LOG TRANSFORMATION:
 <img width="641" height="491" alt="image" src="https://github.com/user-attachments/assets/c5c1284d-506f-4840-be8e-3279ce19f67f" />
 
 ### RESULT:
-Thus we have created the python code for the conversion of non stationary to stationary data on international airline passenger
+Thus we have created the python code for the conversion of non stationary to stationary data on Superstore sales data.
 data.
